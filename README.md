@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jasurab1992
-- 👀 I’m interested in HTML, CSS, JavaScript
+- 👀 I’m interested in HTML, CSS, JavaScript, Vue and React
 - 🌱 I’m currently learning web-programming
 - 💞️ I’m looking to collaborate on learning something new
 - 📫 How to reach me jassey92@gmail.com
